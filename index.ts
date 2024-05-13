@@ -81,3 +81,9 @@ async function withdraw(balance){
     console.log("WIithdrawal successfully and your balance is : "+balance);
     return balance;
 }
+
+
+
+
+
+//this is my atm machine code
